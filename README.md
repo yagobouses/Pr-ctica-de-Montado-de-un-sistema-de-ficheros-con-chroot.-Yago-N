@@ -68,7 +68,7 @@
 ```bash
 11. Hacemos chroot para posicionarme donde quiero que este el directorio raíz.
 ```
-![lsblk](/Cpturas/14.png)
+![lsblk](/Capturas/14.png)
 ```bash
 12. Miramos el usuario de Ubuntu y compramos que este en Kali, con esto somos root en Ubuntu y le cambiamos la contraseña con passwd  usuario.
 ```
