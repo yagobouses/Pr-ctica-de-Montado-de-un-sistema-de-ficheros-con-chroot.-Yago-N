@@ -9,7 +9,7 @@
 ```bash
 1. Importarmos una maquina Ubunto y le metemos el disco de Kali.
 ```
-![lsblk](./capturas/1.png)
+![lsblk](/Capturas/1.png)
 ---
 ```bash
 2. Iniciamos y instalamos Kali.
