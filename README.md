@@ -1,0 +1,1 @@
+# Pr-ctica-de-Montado-de-un-sistema-de-ficheros-con-chroot.-Yago-N
